@@ -1,0 +1,15 @@
+
+                                   HISTORY OF JAVASCRIPT
+JavaScript was created by Brendan Eich in 1995 while he was working at Netscape Communications Corporation
+then it was working for Netscape, so MS Internet Explorer want also us the Js but they Create JsScript ,and it was
+confusing for the developer to write both diff language to work at diff browsers, so to avoid this confusion
+ECMA (European Computer Manufacturers Association) have standardized it and Name EcmaScript and from now this will
+use in the for all web browser and from that day the first version of it relase on 1997 called ES1 then it keep
+Updating and two major update was lanuche 1st in 2009 called es5 and then es6 was relase at 2015, and to avoi this naming\
+convension its called afterwards es2015 = es6 thenn es2016 = es7,es2017= es8 then keeps going on launching new update yearly by a 
+Team tc39
+
+                                       JAVASCRIPT compatibility
+JavaScript is backward compatibility not forward compatibility
+backward means it can support the older features of js
+but its not forward compatibility (the new features will not work in the older browser)
